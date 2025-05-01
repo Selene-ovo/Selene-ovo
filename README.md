@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&color=F77BBA&background=FFFFFF00&width=435&lines=Welcome+to+Jungho's+GitHub)](https://git.io/typing-svg)
 <!--
 **Selene-ovo/Selene-ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
