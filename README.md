@@ -4,7 +4,7 @@
 
 ### 🌸 A passionate Software Developer from South Korea 🇰🇷
 
-[![Email](https://img.shields.io/badge/Email-sun30126331@gmail.com-F77BBA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sun30126331@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sun30126331@gmail.com-F77BBA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chou_01@kakao.com)
 
 </div>
 
