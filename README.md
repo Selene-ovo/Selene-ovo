@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&color=F77BBA&background=FFFFFF00&width=435&lines=Welcome+to+Jungho's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&color=F77BBA&center=true&vCenter=true&width=600&lines=Welcome+to+Jungho's+GitHub)](https://git.io/typing-svg)
 
 ### 🌸 A passionate Software Developer from South Korea 🇰🇷
 
-[![Email](https://img.shields.io/badge/Email-sun30126331@gmail.com-F77BBA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chou_01@kakao.com)
+[![Gmail](https://img.shields.io/badge/Gmail-chou__01@kakao.com-FF69B4?style=flat-square&logo=gmail&logoColor=white&labelColor=FF1493)](mailto:chou_01@kakao.com)
 
 </div>
 
