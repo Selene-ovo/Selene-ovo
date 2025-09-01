@@ -1,4 +1,14 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&color=F77BBA&background=FFFFFF00&width=435&lines=Welcome+to+Jungho's+GitHub)](https://git.io/typing-svg)
+
+# Hello World 👋, I'm **Jungho**!
+
+### 🌸 A passionate Software Developer from South Korea 🇰🇷
+
+[![Email](https://img.shields.io/badge/Email-sun30126331@gmail.com-F77BBA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sun30126331@gmail.com)
+
+</div>
 
 ## 🏆 Awards
 
