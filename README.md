@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&color=F77BBA&center=true&vCenter=true&width=600&lines=Welcome+to+Jungho's+GitHub)](https://git.io/typing-svg)
 
-### 🌸 A passionate Software Developer from South Korea 🇰🇷
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-chou__01@kakao.com-FF69B4?style=flat-square&logo=gmail&logoColor=white&labelColor=FF1493)](mailto:chou_01@kakao.com)
+### 🌸 한국 출신의 열정적인 소프트웨어 개발자 🇰🇷
+
+[![Email](https://img.shields.io/badge/💌%20Email-chou__01@kakao.com-FF69B4?style=flat-square&logoColor=white)](mailto:chou_01@kakao.com)
 
 </div>
 
