@@ -6,7 +6,7 @@
 
 ### 🌸 A passionate Software Developer from South Korea 🇰🇷
 
-[![Email](https://img.shields.io/badge/💌%20Email-chou__01@kakao.com-333333?style=flat&logoColor=white&labelColor=F77BBA)](mailto:chou_01@kakao.com)
+[![Email](https://img.shields.io/badge/💌%20Email-chou__01@kakao.com-333333?style=flat-square&logoColor=white&labelColor=F77BBA)](mailto:chou_01@kakao.com)
 
 </div>
 
