@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&color=F77BBA&center=true&vCenter=true&width=600&lines=Welcome+to+Jungho's+GitHub)](https://git.io/typing-svg)
 
-<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=F77BBA&height=1&section=header&fontSize=0" />
+<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=CCCCCC&height=1&section=header&fontSize=0" />
 
 ### 🌸 A passionate Software Developer from South Korea 🇰🇷
 
-[![Email](https://img.shields.io/badge/💌-chou__01@kakao.com-FF1493?style=for-the-badge&logoColor=white&labelColor=FF69B4)](mailto:chou_01@kakao.com)
+[![Email](https://img.shields.io/badge/💌%20Email-chou__01@kakao.com-E91E63?style=for-the-badge&logoColor=white&labelColor=9E9E9E)](mailto:chou_01@kakao.com)
 
 </div>
 
