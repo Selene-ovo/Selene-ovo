@@ -2,26 +2,30 @@ name: 뱀 만들기
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 매일 자동으로
-  workflow_dispatch:       # 버튼 누르면 바로
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  make:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - name: 뱀 그림 그리기
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Selene-ovo
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            snake.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: 저장하기
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
+          commit_message: Update snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
