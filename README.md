@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Selene-ovo/Selene-ovo/raw/output/github-snake-dark.svg" />
+  <img src="https://github.com/Selene-ovo/Selene-ovo/raw/output/github-snake.svg" alt="뱀 애니메이션" width="100%" />
+</picture>
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&color=F77BBA&center=true&vCenter=true&width=600&lines=Welcome+to+Jungho's+GitHub)](https://git.io/typing-svg)
