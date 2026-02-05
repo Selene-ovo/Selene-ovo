@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            github-snake.svg?color_snake=ff69b4&color_dots=#ffb6c1,#ff69b4,#ff1493,#db7093,#c71585
+            github-snake-dark.svg?palette=github-dark&color_snake=ff69b4&color_dots=#ffb6c1,#ff69b4,#ff1493,#db7093,#c71585
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -31,7 +31,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Selene-ovo/Selene-ovo/raw/output/dist/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Selene-ovo/Selene-ovo/raw/output/dist/github-snake.svg" />
-  <img alt="뱀이 내 커밋 먹는 중 🐍" src="https://github.com/Selene-ovo/Selene-ovo/raw/output/dist/github-snake.svg" width="100%" />
-</picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Selene-ovo/Selene-ovo/raw/output/dist/github-snake.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/Selene-ovo/Selene-ovo/raw/output/dist/github-snake.svg" />
+            <img alt="뱀이 내 커밋 먹는 중 🐍" src="https://github.com/Selene-ovo/Selene-ovo/raw/output/dist/github-snake.svg" width="100%" />
+          </picture>
